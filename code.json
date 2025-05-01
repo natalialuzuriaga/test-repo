@@ -1,0 +1,76 @@
+{
+  "name": "test-repo",
+  "description": "my test-repo!",
+  "longDescription": "created a form built with form.io that takes json input and converts to a form for download",
+  "status": "Ideation",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "CC0-1.0",
+        "URL": "https://github.com/natalialuzuriaga/test-repo/blob/main/LICENSE"
+      }
+    ],
+    "usageType": "openSource",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/natalialuzuriaga/test-repo",
+  "repositoryHost": "github.com/CMSgov",
+  "repositoryVisibility": "public",
+  "vcs": "git",
+  "laborHours": 123,
+  "reuseFrequency": {
+    "forks": 0,
+    "clones": 4
+  },
+  "platforms": [
+    "web",
+    "windows"
+  ],
+  "categories": [
+    "a"
+  ],
+  "softwareType": "standalone/mobile",
+  "languages": [
+    "a"
+  ],
+  "maintenance": "internal",
+  "contractNumber": "1234567890123",
+  "date": {
+    "created": "2025-04-09T22:10:36Z",
+    "lastModified": "2025-04-09T22:10:40Z",
+    "metaDataLastUpdated": "2025-05-01T21:56:20.922Z"
+  },
+  "tags": [
+    "a",
+    "b"
+  ],
+  "contact": {
+    "email": "nat@hhs.cms.gov",
+    "name": "Natalia Luzuriaga"
+  },
+  "feedbackMechanisms": [
+    "https://github.com/natalialuzuriaga/test-repo/issues"
+  ],
+  "localisation": true,
+  "repositoryType": "package",
+  "userInput": true,
+  "fismaLevel": "Low",
+  "group": "CMS/OA/DSAC",
+  "projects": [
+    "a"
+  ],
+  "systems": [
+    "a"
+  ],
+  "upstream": "",
+  "subsetInHealthcare": [
+    "Policy",
+    "Medicaid"
+  ],
+  "userType": [
+    "Providers",
+    "Government"
+  ],
+  "maturityModelTier": 2
+}
